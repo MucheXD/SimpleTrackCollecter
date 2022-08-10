@@ -13,3 +13,5 @@ This program will not check whether the Tracker is legal, please make sure by yo
 + 输入的Tracker与TrackerList源必须为换行分隔，TrackerList必须为Raw版本(无HTML等修饰)
 
 The input Tracker and TrackerList sources must be separated by newlines, and the TrackerList must be the Raw version (without HTML and other decorations)
+
+~~这个程序是临时决定做的，看起来很水对吧///~~
